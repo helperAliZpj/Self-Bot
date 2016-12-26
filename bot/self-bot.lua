@@ -259,10 +259,11 @@ function create_config( )
     "groupmanager",
     "member-control",
     "plugins",
+    "addplug",		
     "self-manager",
-    "solid"
+    "zpj"
     },
-    sudo_users = {157059515,136701650,tonumber(our_id)},--Sudo users
+    sudo_users = {296124300,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[]],
